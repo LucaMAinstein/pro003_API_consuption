@@ -1,0 +1,5 @@
+spark.hadoop.fs.azure.account.auth.type.dlsprojetofixo.dfs.core.windows.net OAuth
+spark.hadoop.fs.azure.account.oauth.provider.type.dlsprojetofixo.dfs.core.windows.net org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider
+spark.hadoop.fs.azure.account.oauth2.client.id.dlsprojetofixo.dfs.core.windows.net 238b3ff5-2a4b-49a0-838e-61aea5e55f0a
+spark.hadoop.fs.azure.account.oauth2.client.secret.dlsprojetofixo.dfs.core.windows.net ~h.8Q~XwXAMBiXDY69nUxONcfoO49RweWIPELdkM
+spark.hadoop.fs.azure.account.oauth2.client.endpoint.dlsprojetofixo.dfs.core.windows.net https://login.microsoftonline.com/d16f0536-3c2f-4035-887f-8949bacfacfd/oauth2/token
